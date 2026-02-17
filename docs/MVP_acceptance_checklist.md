@@ -1,6 +1,6 @@
 # LiteLizard MVP Acceptance Checklist
 
-Source of truth: `/Users/jane/devidea/liteLizard/LiteLizard_clean_spec_v1.md`
+Source of truth: `LiteLizard_clean_spec_v1.md`
 
 ## Functional checks
 - [ ] 1. Open folder and display `.litelizard.json` files in explorer tree.

@@ -1,6 +1,6 @@
 # LiteLizard MVP Acceptance Checklist v2
 
-Source of truth: `/Users/jane/.codex/worktrees/49de/liteLizard/docs/LiteLizard_spec_v2_draft.md`
+Source of truth: `docs/LiteLizard_spec_v2_draft.md`
 
 ## Functional checks
 - [ ] 1. Open folder and display `.md` files in explorer tree.
